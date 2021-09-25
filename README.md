@@ -1,19 +1,18 @@
 <div align="center">
 <h1>GirlScript Winter of Contributing Twitter Bot</h1>
+</div>
 
 [![Issues](https://img.shields.io/github/issues/thepranaygupta/GWoC-Bot)](https://github.com/thepranaygupta/GWoC-Bot/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/thepranaygupta/GWoC-Bot/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/thepranaygupta/GWoC-Bot/pulls)
 [![Forks](https://img.shields.io/github/forks/thepranaygupta/GWoC-Bot?style=social)](https://github.com/thepranaygupta/GWoC-Bot/network/members)
 [![Stars](https://img.shields.io/github/stars/thepranaygupta/GWoC-Bot?style=social)](https://github.com/thepranaygupta/GWoC-Bot/stargazers)
 [![Watchers](https://img.shields.io/github/watchers/thepranaygupta/GWoC-Bot?style=social)](https://github.com/thepranaygupta/GWoC-Bot/watchers)
-
-</div>
 
 ### A Twitter Bot that retweets and likes tweets with the hashtag [`#girlscriptwoc`](https://twitter.com/search?q=%23girlscriptwoc) and [`#girlscript`](https://twitter.com/search?q=%23girlscript), and also follows the user.
 
 <div align="center">
 <a href="https://twitter.com/GWoC_Bot">
-<img src="https://user-images.githubusercontent.com/64855541/134764026-aa07dccd-8070-47a2-8a4f-563ba960e841.jpg" alt="GirlScript Winter of Contributing Bot on Twitter" width=500px>
+<img src="https://user-images.githubusercontent.com/64855541/134766679-c0a62e68-7663-4823-afb7-4ef21e9095d0.jpg" alt="GirlScript Winter of Contributing Bot on Twitter" width=500px>
 </a>
 </div>
 
